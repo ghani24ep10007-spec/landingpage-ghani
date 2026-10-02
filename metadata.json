@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi UNUGHA - Landing Page & Portal",
+  "description": "Landing page resmi Sistem Informasi UNUGHA Cilacap dengan navbar interaktif, 3 card fitur, panduan Cloudflare SSL/DNS, dan generator welcome.blade.php.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
