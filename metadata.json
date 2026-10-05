@@ -1,6 +1,6 @@
 {
-  "name": "Sistem Informasi UNUGHA - Landing Page & Portal",
-  "description": "Landing page resmi Sistem Informasi UNUGHA Cilacap dengan navbar interaktif, 3 card fitur, panduan Cloudflare SSL/DNS, dan generator welcome.blade.php.",
+  "name": "Profil Akademik Rizqi Ghani Adinata — UNUGHA",
+  "description": "Profil akademik formal dan responsif mahasiswa Sistem Informasi UNUGHA Cilacap, mencakup latar belakang, bidang pengembangan, dan portofolio.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }

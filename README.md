@@ -1,23 +1,20 @@
-# CV Online — Rizqi Ghani Adinata
+# Profil Akademik — Rizqi Ghani Adinata
 
-CV responsif untuk mahasiswa Program Studi Sistem Informasi UNUGHA Cilacap. Dibuat dengan HTML semantik dan CSS murni, tanpa dependensi runtime.
+Landing page profil akademik berbahasa Indonesia untuk mahasiswa Program Studi Sistem Informasi Universitas Nahdlatul Ulama Al Ghazali Cilacap (UNUGHA). Situs menggunakan HTML semantik dan CSS responsif tanpa dependensi runtime.
 
-## Struktur
+## Build lokal
 
-- index.html — konten dan elemen semantik HTML5
-- styles.css — desain mobile-first, aksesibilitas, dan tata letak cetak
-- build.mjs — menyalin berkas statis ke dist/ untuk deployment
+```sh
+npm run build
+```
 
-## Build
-
-Jalankan npm run build. Hasil build berada di folder dist/.
+Hasil statis berada pada `dist/`. Build menyertakan lambang UNUGHA dan foto kampus lokal agar semua aset tetap tersedia saat deployment.
 
 ## Cloudflare Pages
 
 - Framework preset: None
-- Build command: npm run build
-- Build output directory: dist
-- Production branch: main
+- Build command: `npm run build`
+- Build output directory: `dist`
+- Production branch: `main`
 
-Tambahkan rizqighaniadinata.my.id melalui Custom domains pada proyek Pages. DNS domain perlu diarahkan ke proyek Pages di Cloudflare.
-
+Profil GitHub: [ghani24ep10007-spec](https://github.com/ghani24ep10007-spec). Lambang UNUGHA diambil dari direktori data resmi LLDIKTI Wilayah VI.
